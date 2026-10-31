@@ -1,0 +1,11 @@
+
+{
+  "name": "campus-service",
+  "version": "1.0.0",
+  "description": "DevOps Campus Service Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "private": true
+}
